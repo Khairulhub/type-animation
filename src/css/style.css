@@ -14,16 +14,14 @@ body{
     overflow: hidden;
     
 }
-.container{
 
-}
 .container .text{
     position: relative;
     color: #4070F4;
     font-size:30px;
     font-weight: 600;
 }
-.container .text .first-text{
+.container .first-text{
     color: #fff;
 }
 .container .sec-text::before{
